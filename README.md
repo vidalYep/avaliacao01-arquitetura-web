@@ -1,4 +1,5 @@
 ## Projeto Livraria - Spring Boot + MariaDB
+Este projeto é um exemplo de aplicação CRUD usando Spring Boot, JPA e MariaDB. O sistema gerencia **autores** e **livros**, com relacionamento entre eles.
 
 ## Estrutura do Projeto
 
@@ -29,3 +30,12 @@ Livraria
 ├── pom.xml
 └── README.md
 ```
+
+## 🔧 Tecnologias usadas
+
+- Java 22
+- Spring Boot 3.4.4
+- Spring Data JPA
+- MariaDB
+- Xampp
+- Maven
