@@ -30,7 +30,7 @@ Livraria
 ├── pom.xml
 └── README.md
 ```
-
+---
 ## 🔧 Tecnologias usadas
 
 - Java 22
@@ -39,3 +39,21 @@ Livraria
 - MariaDB
 - Xampp
 - Maven
+
+---
+
+## 📌 Funcionalidades
+
+### 🔹 Autor
+- Criar autor
+- Listar todos
+- Atualizar
+- Deletar
+
+### 🔹 Livro
+- Criar livro (relacionado a um autor)
+- Listar todos
+- Atualizar
+- Deletar
+
+---
