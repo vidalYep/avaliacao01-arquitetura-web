@@ -89,3 +89,12 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.database-platform=org.hibernate.dialect.MariaDBDialect
 ```
+
+---
+
+## 🧪 Testando a API
+
+Use o Postman para testar os endpoints da API:
+
+
+![image](https://github.com/user-attachments/assets/31338759-d967-4114-9d8c-bea3c8f00bd1)
